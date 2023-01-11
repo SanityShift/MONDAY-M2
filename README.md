@@ -1,1 +1,4 @@
-# MONDAY-M2
+# MONDAY
+MONDAY your personal AI
+
+Enjoy
